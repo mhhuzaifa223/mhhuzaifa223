@@ -21,4 +21,4 @@ I build production-style projects to develop real, hands-on DevOps skills — no
 - 🗄️ [Gitea](https://gitea.mhhuzaifa.com) — Self-Hosted Git Server with PostgreSQL on AWS EC2 ([repo](https://github.com/mhhuzaifa223/gitea-deployment))
 - 🏗️ [Terraform AWS Infrastructure as Code](https://github.com/mhhuzaifa223/terraform-aws) — Reproducible AWS provisioning (EC2, IAM, Security Groups)
 - 📦 [Strapi CMS](https://strapi.mhhuzaifa.com) — Headless CMS on AWS RDS + S3 with Terraform-provisioned infra ([repo](https://github.com/mhhuzaifa223/strapi-cms))
-- ☸️ [Kubernetes Microservices Demo](https://k8s.mhhuzaifa.com) — 10+ Services on AWS EKS with Helm, Ingress & Prometheus/Grafana ([repo](https://github.com/mhhuzaifa223/REPO_NAME_HERE))
+- ☸️ [Kubernetes Microservices Demo](https://k8s.mhhuzaifa.com) — 10+ Services on AWS EKS with Helm, Ingress & Prometheus/Grafana ([repo](https://github.com/mhhuzaifa223/google-microservices-eks))
