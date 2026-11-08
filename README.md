@@ -119,7 +119,7 @@ My goal is to build reliable, maintainable infrastructure and develop strong tro
 
 ## Education
 
-**Master's in Software Engineering / Computer Science**  
+**Master's in Software Engineering**  
 Universitatea Politehnica Timișoara, Romania
 
 ## Connect With Me
